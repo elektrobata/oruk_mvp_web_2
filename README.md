@@ -1,1 +1,0 @@
-# oruk-mvp-web
